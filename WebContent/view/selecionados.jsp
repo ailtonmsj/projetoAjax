@@ -1,0 +1,27 @@
+<html>
+	<body>
+		<table>
+			<tr>
+				<td>
+					Sua seleção foi:
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<label>Estado:</label>
+				</td>
+				<td>
+					<label>${param.estado}</label>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<label>Municipio:</label>
+				</td>
+				<td>
+					<label>${param.municipio}</label>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
